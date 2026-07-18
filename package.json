@@ -1,0 +1,17 @@
+{
+  "name": "pusula-landing",
+  "version": "0.1.0",
+  "description": "Pusula - Almanya'da göçmen işçiler için bürokrasi ve iş bulma AI ajanı - erken erişim sitesi",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.0"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}
